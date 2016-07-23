@@ -1,4 +1,3 @@
-require 'pry'
 module Fibonacci
   # Both methods return n many numbers
   # of the Fibonacci sequence
